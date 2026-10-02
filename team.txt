@@ -1,3 +1,3 @@
 Team members: Andi and Marco
 Favorite programming language: Python
-Team motto: Work Hard
+Team motto: Commit early, commit often
